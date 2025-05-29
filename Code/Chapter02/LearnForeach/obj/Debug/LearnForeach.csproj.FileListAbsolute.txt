@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\bin\Debug\LearnForeach.exe.config
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\bin\Debug\LearnForeach.exe
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\bin\Debug\LearnForeach.pdb
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\obj\Debug\LearnForeach.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\obj\Debug\LearnForeach.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\obj\Debug\LearnForeach.exe
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\LearnForeach\obj\Debug\LearnForeach.pdb
