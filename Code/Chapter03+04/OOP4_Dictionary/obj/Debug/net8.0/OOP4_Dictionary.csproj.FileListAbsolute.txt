@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net8.0\OOP4_Dictionary.exe
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net8.0\OOP4_Dictionary.deps.json
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net8.0\OOP4_Dictionary.runtimeconfig.json
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net8.0\OOP4_Dictionary.dll
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net8.0\OOP4_Dictionary.pdb
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.dll
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\refint\OOP4_Dictionary.dll
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.pdb
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\OOP4_Dictionary.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net8.0\ref\OOP4_Dictionary.dll

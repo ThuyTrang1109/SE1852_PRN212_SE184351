@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\bin\Debug\OOP2.exe
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\bin\Debug\OOP2.pdb
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\obj\Debug\OOP2.exe
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\obj\Debug\OOP2.pdb
+C:\Users\ADMIN\Downloads\SU25\PRN212_For_Student\PRN212_SE1852\PRN212_SE1852\OOP2\obj\Debug\OOP2.exe.config
