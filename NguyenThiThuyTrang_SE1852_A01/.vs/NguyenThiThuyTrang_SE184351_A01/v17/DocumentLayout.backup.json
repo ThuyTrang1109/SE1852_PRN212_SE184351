@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C4EEC7-60F0-4EF3-91AD-74234B0B2533}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C4EEC7-60F0-4EF3-91AD-74234B0B2533}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959CA164-FD65-4D18-948B-F30CCE202D5A}|Services\\Services.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959CA164-FD65-4D18-948B-F30CCE202D5A}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959CA164-FD65-4D18-948B-F30CCE202D5A}|Services\\Services.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959CA164-FD65-4D18-948B-F30CCE202D5A}|Services\\Services.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\dataaccess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBCA3DD-5384-489F-BF16-9A8C4350CE0E}|ClassLibrary1\\Repositories.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\classlibrary1\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBCA3DD-5384-489F-BF16-9A8C4350CE0E}|ClassLibrary1\\Repositories.csproj|solutionrelative:classlibrary1\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\dataaccess\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C54DAB-5F15-44D6-B7F8-CF0E183930C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\productmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\productmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\productmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\productmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\customermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\customermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\customermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\customermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|c:\\users\\admin\\downloads\\nguyenthithuytrang_se1852_a01\\nguyenthithuytrang_se1852_a01\\wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5206C5C0-B478-45EB-908D-C7F512650F1F}|WPF\\NguyenThiThuyTrangWPF.csproj|solutionrelative:wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:57:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\ProductManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\ProductManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\ProductManagementWindow.xaml",
+              "RelativeToolTip": "WPF\\ProductManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T11:45:16.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\ProductManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\ProductManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\ProductManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\ProductManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:44:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIBJwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:37:51.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:37:24.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\ClassLibrary1\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\ClassLibrary1\\CustomerRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\CustomerRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:27:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\CustomerManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\CustomerManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:18:19.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\CustomerManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerManagementWindow.xaml",
+              "RelativeToolTip": "WPF\\CustomerManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T11:18:06.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\CustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "WPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T10:55:22.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:55:19.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\EmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\EmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\EmployeeWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\EmployeeWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIBQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:52:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\EmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\EmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\EmployeeWindow.xaml",
+              "RelativeToolTip": "WPF\\EmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T10:51:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:46:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\WPF\\LoginWindow.xaml",
+              "RelativeToolTip": "WPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T10:46:22.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:24:51.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:24:49.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderDetailDAO.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:15:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EmployeeDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\EmployeeDAO.cs",
+              "RelativeToolTip": "DataAccess\\EmployeeDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:17:55.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\ProductDAO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwCQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:04:20.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\NguyenThiThuyTrang_SE1852_A01\\NguyenThiThuyTrang_SE1852_A01\\DataAccess\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccess\\CustomerDAO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA7wDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:01:09.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
