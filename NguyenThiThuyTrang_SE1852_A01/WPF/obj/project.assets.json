@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "BusinessObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BusinessObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessObjects.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0",
+          "DataAccess": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessObjects/1.0.0": {
+      "type": "project",
+      "path": "../BusinessObjects/BusinessObjects.csproj",
+      "msbuildProject": "../BusinessObjects/BusinessObjects.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/Repositories.csproj",
+      "msbuildProject": "../ClassLibrary1/Repositories.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "BusinessObjects >= 1.0.0",
+      "DataAccess >= 1.0.0",
+      "Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\WPF\\NguyenThiThuyTrangWPF.csproj",
+      "projectName": "NguyenThiThuyTrangWPF",
+      "projectPath": "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\WPF\\NguyenThiThuyTrangWPF.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\WPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\BusinessObjects\\BusinessObjects.csproj"
+            },
+            "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\DataAccess\\DataAccess.csproj"
+            },
+            "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Downloads\\tt\\SalesManagementSystem\\Services\\Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

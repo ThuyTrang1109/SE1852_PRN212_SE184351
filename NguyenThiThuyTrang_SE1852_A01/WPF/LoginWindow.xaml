@@ -1,0 +1,52 @@
+﻿<Window x:Class="Presentation.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- RadioButton for Employee -->
+        <RadioButton x:Name="rbEmployee" Content="Employee Login" Grid.Row="0" Grid.Column="1" Margin="10" Checked="rbEmployee_Checked" HorizontalAlignment="Left" VerticalAlignment="Center" Padding="5"/>
+
+        <!-- RadioButton for Customer -->
+        <RadioButton x:Name="rbCustomer" Content="Customer Login" Grid.Row="1" Grid.Column="1" Margin="10" Checked="rbCustomer_Checked" HorizontalAlignment="Left" VerticalAlignment="Center" Padding="5"/>
+
+        <!-- Username/Phone Label -->
+        <Label Grid.Row="2" Grid.Column="0" Content="Username / Phone:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="10"/>
+
+        <!-- Username TextBox for Employee -->
+        <TextBox x:Name="txtUsername" Grid.Row="2" Grid.Column="1" Width="200" Margin="10" Visibility="Visible" HorizontalAlignment="Stretch"/>
+
+        <!-- Phone TextBox for Customer -->
+        <TextBox x:Name="txtPhone" Grid.Row="2" Grid.Column="1" Width="200" Margin="10" Visibility="Collapsed" HorizontalAlignment="Stretch"/>
+
+        <!-- Password Label -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Password:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="10"/>
+
+        <!-- PasswordBox for Employee -->
+        <PasswordBox x:Name="txtPassword" Grid.Row="3" Grid.Column="1" Width="200" Margin="10" Visibility="Collapsed" HorizontalAlignment="Stretch"/>
+
+        <!-- Login Button -->
+        <Button x:Name="btnLogin" Grid.Row="4" Grid.Column="1" Content="Login" Width="72" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnLogin_Click" Margin="233,20,0,0" RenderTransformOrigin="1.159,-0.184"/>
+
+        <!-- Cancel Button -->
+        <Button x:Name="btnCancel" Grid.Row="4" Grid.Column="1" Content="Cancel" Width="75" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnCancel_Click" Margin="362,20,0,0"/>
+    </Grid>
+
+</Window>
